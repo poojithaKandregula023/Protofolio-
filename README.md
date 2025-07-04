@@ -43,4 +43,3 @@ Build user-friendly and responsive applications
 Learn and apply new technologies
 
 Solve real-world challenges through software
-
