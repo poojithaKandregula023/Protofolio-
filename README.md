@@ -43,3 +43,6 @@ Build user-friendly and responsive applications
 Learn and apply new technologies
 
 Solve real-world challenges through software
+
+![Image](https://github.com/user-attachments/assets/32965c9e-7d90-4907-9343-d0400ab91094)
+![Image](https://github.com/user-attachments/assets/e43426f9-1b23-45c0-bc5e-49d5741e9e5f)
